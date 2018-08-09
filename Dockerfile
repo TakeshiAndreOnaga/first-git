@@ -1,2 +1,2 @@
-FROM dockersample/static-site
-ENV AUTHOR="Ryuji Yamada"
+FROM andy0628/docker-whale3 
+ENV AUTHOR="TakeshiAndreOnaga"
